@@ -1,5 +1,5 @@
 [package]
-name = "golden_token"
+name = "goldenToken"
 version = "0.1.0"
 
 [dependencies]
